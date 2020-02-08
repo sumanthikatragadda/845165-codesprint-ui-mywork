@@ -1,0 +1,11 @@
+My associate id:
+845165
+Other team members:
+844989,845032,845143
+Team lead:
+845165
+My Role in team:
+1.Javascript Validations
+I was strong in:
+1.HTML
+2.Javascript
